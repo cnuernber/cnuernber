@@ -26,4 +26,4 @@ I have developed software for a long time across a range of industries and techn
 
 ### Clojure Numerics
 
-* [dtype-next Architecture](https://www.youtube.com/watch?v=zYNlZXTV14E&t=1203s)
+* ['dtype-next' Architecture](https://www.youtube.com/watch?v=zYNlZXTV14E&t=1203s)
