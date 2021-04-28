@@ -1,7 +1,7 @@
 Hey, you have found my github page!  Thanks for coming by.
 
 
-I have developed software for a long time across a range of industries and technologies.  I like languages and high performance computing.  You can always reach me at <chris@techascent.com>.
+I have developed software for a long time across a range of [industries and technologies](https://www.linkedin.com/in/chris-nuernberger-54a13a3/).  I like languages and high performance computing.  You can always reach me at <chris@techascent.com>.
 
 
 ## Selected Talks
