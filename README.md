@@ -8,7 +8,7 @@ I have developed software for a long time across a range of [industries and tech
 
 ### Clojure Numerics
 
-* [High Performance Data With Clojure](https://www.youtube.com/watch?v=6avJHaC3C2U)
+* [High Performance Data With Clojure](https://www.youtube.com/watch?v=5mUGu4RlwKE)
 * [TVM, Clojure, and High Performance](https://www.therepl.net/episodes/13/)
 * ['dtype-next' Architecture](https://www.youtube.com/watch?v=zYNlZXTV14E&t=1203s)
 
