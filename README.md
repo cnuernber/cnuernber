@@ -6,6 +6,12 @@ I have developed software for a long time across a range of [industries and tech
 
 ## Selected Talks
 
+### Clojure Numerics
+
+* [High Performance Data With Clojure](https://www.youtube.com/watch?v=6avJHaC3C2U)
+* [TVM, Clojure, and High Performance](https://www.therepl.net/episodes/13/)
+* ['dtype-next' Architecture](https://www.youtube.com/watch?v=zYNlZXTV14E&t=1203s)
+
 ### Deep Learning
 
 * [Cognicast 125 - Cortex - Clojure Deep Learning Framework](https://www.cognitect.com/cognicast/125)
@@ -22,9 +28,3 @@ I have developed software for a long time across a range of [industries and tech
 * [Python & Clojure](https://www.youtube.com/watch?v=vQPW16_jixs)
 * [Cognicast 153 - Python, Clojure, and ...](https://www.cognitect.com/cognicast/153)
 * ['libpython-clj' Demonstration](https://www.youtube.com/watch?v=ajDiGS73i2o&t=414s)
-
-
-### Clojure Numerics
-
-* [TVM, Clojure, and High Performance](https://www.therepl.net/episodes/13/)
-* ['dtype-next' Architecture](https://www.youtube.com/watch?v=zYNlZXTV14E&t=1203s)
