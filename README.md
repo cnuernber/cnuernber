@@ -8,6 +8,7 @@ I have developed software for a long time across a range of [industries and tech
 
 ### Clojure Numerics
 
+* [High Performance Clojure](https://www.youtube.com/watch?v=ralZ4j_ruVg)
 * Data Processing: [Part 1](https://soundcloud.com/clojurestream/e72-data-processing-with-chris-nuernberger-part-1), 
   [Part 2](https://soundcloud.com/clojurestream/e73-data-processing-with-chris-nuernberger-part-2)
 * [High Performance Data With Clojure](https://www.youtube.com/watch?v=5mUGu4RlwKE)
