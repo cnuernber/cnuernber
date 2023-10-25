@@ -8,10 +8,11 @@ I have developed software for a long time across a range of [industries and tech
 
 ### Clojure Numerics
 
+* [Higher Performance Data With Clojure](https://www.youtube.com/watch?v=WA5O7jNoNGE)
 * [High Performance Clojure](https://www.youtube.com/watch?v=ralZ4j_ruVg)
+* [High Performance Data With Clojure](https://www.youtube.com/watch?v=5mUGu4RlwKE)
 * Data Processing: [Part 1](https://soundcloud.com/clojurestream/e72-data-processing-with-chris-nuernberger-part-1), 
   [Part 2](https://soundcloud.com/clojurestream/e73-data-processing-with-chris-nuernberger-part-2)
-* [High Performance Data With Clojure](https://www.youtube.com/watch?v=5mUGu4RlwKE)
 * [TVM, Clojure, and High Performance](https://www.therepl.net/episodes/13/)
 * ['dtype-next' Architecture](https://www.youtube.com/watch?v=zYNlZXTV14E&t=1203s)
 
